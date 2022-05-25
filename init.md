@@ -1,0 +1,3 @@
+## Iniciar com:
+
+-   scikit-learn
